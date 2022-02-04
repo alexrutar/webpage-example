@@ -24,6 +24,7 @@ header {
   justify-self: left;
   align-self: end;
 }
+
 nav {
   font-size: 18px;
 
@@ -43,7 +44,6 @@ article {
   grid-area: ct;
   border-top: 2px solid gray;
 }
-
 
 a {
   color: #ffa64d;
