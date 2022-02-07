@@ -63,7 +63,7 @@ h2 {
 @media screen and (max-width: 430px) {
   body {
     grid-template-columns: auto;
-    grid-template-rows: minmax(30px,auto) minmax(20px,auto) auto;
+    grid-template-rows: minmax(40px,auto) minmax(30px,auto) auto;
     grid-template-areas:
     "header"
     "nav"
